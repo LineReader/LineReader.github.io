@@ -1,0 +1,191 @@
+.hovering-text-1 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 3rem;
+    position: absolute;
+    top: 10rem;
+    left: 4rem;
+    opacity: 0%;
+    cursor: pointer;
+}
+
+.image-card-1 {
+    position: relative;
+}
+
+.image-card-1:hover {
+    filter: brightness(50%);
+    transition: .2s;
+}
+
+.image-card-1:hover .hovering-text-1 {
+    opacity: 100%;
+}
+
+.hovering-text-2 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 3rem;
+    position: absolute;
+    top: 10rem;
+    left: 9rem;
+    opacity: 0%;
+    cursor: pointer;
+}
+
+.image-card-2 {
+    position: relative;
+}
+
+.image-card-2:hover {
+    filter: brightness(50%);
+    transition: .2s;
+}
+
+.image-card-2:hover .hovering-text-2 {
+    opacity: 100%;
+}
+
+.hovering-text-3 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 3rem;
+    position: absolute;
+    top: 10rem;
+    left: 2.3rem;
+    opacity: 0%;
+    cursor: pointer;
+}
+
+.image-card-3 {
+    position: relative;
+}
+
+.image-card-3:hover {
+    filter: brightness(50%);
+    transition: .2s;
+}
+
+.image-card-3:hover .hovering-text-3 {
+    opacity: 100%;
+}
+
+.hovering-text-4 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 3rem;
+    position: absolute;
+    top: 10rem;
+    left: 2.3em;
+    opacity: 0%;
+    cursor: pointer;
+}
+
+.image-card-4 {
+    position: relative;
+}
+
+.image-card-4:hover {
+    filter: brightness(50%);
+    transition: .2s;
+}
+
+.image-card-4:hover .hovering-text-4 {
+    opacity: 100%;
+}
+
+.hovering-text-5 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 3rem;
+    position: absolute;
+    top: 10rem;
+    left: 1.6em;
+    opacity: 0%;
+    cursor: pointer;
+}
+
+.image-card-5 {
+    position: relative;
+}
+
+.image-card-5:hover {
+    filter: brightness(50%);
+    transition: .2s;
+}
+
+.image-card-5:hover .hovering-text-5 {
+    opacity: 100%;
+}
+
+.hovering-text-6 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 3rem;
+    position: absolute;
+    top: 10rem;
+    left: 5.5rem;
+    opacity: 0%;
+    cursor: pointer;
+}
+
+.image-card-6 {
+    position: relative;
+}
+
+.image-card-6:hover {
+    filter: brightness(50%);
+    transition: .2s;
+}
+
+.image-card-6:hover .hovering-text-6 {
+    opacity: 100%;
+}
+
+.hovering-text-7 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 3rem;
+    position: absolute;
+    top: 10rem;
+    left: 2.3em;
+    opacity: 0%;
+    cursor: pointer;
+}
+
+.image-card-7 {
+    position: relative;
+}
+
+.image-card-7:hover {
+    filter: brightness(50%);
+    transition: .2s;
+}
+
+.image-card-7:hover .hovering-text-7 {
+    opacity: 100%;
+}
+
+.hovering-text-8 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 3rem;
+    position: absolute;
+    top: 10rem;
+    left: 2.3em;
+    opacity: 0%;
+    cursor: pointer;
+}
+
+.image-card-8 {
+    position: relative;
+}
+
+.image-card-8:hover {
+    filter: brightness(50%);
+    transition: .2s;
+}
+
+.image-card-8:hover .hovering-text-8 {
+    opacity: 100%;
+}
