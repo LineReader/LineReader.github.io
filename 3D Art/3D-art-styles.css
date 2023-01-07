@@ -283,7 +283,6 @@ a:visited {
     transition: .5s;
     padding: 1rem;
     text-align: center;
-    width: 100%;
 }
 
 .info-cont h1:hover {
@@ -423,6 +422,14 @@ a:visited {
         border-radius: 1rem;
         width: 18rem;
     }
+
+    .title h1:hover {
+        font-size: 3.1rem;
+        color: rgb(50, 146, 255);
+        box-shadow: none;
+        border-radius: 1rem;
+        padding: 1rem;
+    }
     
 
     .divider {
@@ -436,10 +443,27 @@ a:visited {
         padding: 0rem 2rem 0 2rem;
     }
 
+    .info-cont h1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-transform: uppercase;
+        font-family: "Open-Sans";
+        font-weight: 700;
+        font-size: 2.8rem;
+        color: rgb(53, 53, 53);
+        cursor: default;
+        transition: .5s;
+        padding: 1rem;
+        text-align: center;
+    }
+
     .info-cont h1:hover {
-        font-size: 3.2rem;
+        font-size: 2.9rem;
         color: rgb(50, 146, 255);
         box-shadow: none;
+        border-radius: 1rem;
+        padding: 1rem;
     }
 
 }
