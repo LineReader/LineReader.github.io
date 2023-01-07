@@ -423,6 +423,38 @@ a:visited {
 
 @media only screen and (min-width: 500px) {
 
+    .title h1 {
+        text-transform: uppercase;
+        font-family: "Open-Sans";
+        font-weight: 700;
+        font-size: 3rem;
+        color: rgb(53, 53, 53);
+        cursor: default;
+        transition: .5s;
+        padding: 1rem;
+        text-align: center;
+    }
+
+    .title h1:hover {
+        font-size: 3.1rem;
+        color: rgb(50, 146, 255);
+        box-shadow: none;;
+        border-radius: none;
+        padding: none;
+    }
+
+    .info-cont h1 {
+        font-size: 2.5rem;
+    }
+
+    .info-cont h1:hover {
+        font-size: 2.6rem;
+        color: rgb(50, 146, 255);
+        box-shadow: none;
+        border-radius: 1rem;
+        padding: 1rem;
+    }
+
 }
 
 @media only screen and (min-width: 900px) {
@@ -447,5 +479,48 @@ a:visited {
 
     .menu-button {
         display: none;
+    }
+
+    .title h1 {
+        text-transform: uppercase;
+        font-family: "Open-Sans";
+        font-weight: 700;
+        font-size: 3rem;
+        color: rgb(53, 53, 53);
+        cursor: default;
+        transition: .5s;
+        padding: 1rem;
+        text-align: center;
+    }
+    
+    .title h1:hover {
+        font-size: 3.2rem;
+        color: rgb(50, 146, 255);
+        box-shadow: 0rem .1rem .6rem rgb(53, 53, 53);
+        border-radius: 1rem;
+        padding: 1rem;
+    }
+
+    .info-cont h1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-transform: uppercase;
+        font-family: "Open-Sans";
+        font-weight: 700;
+        font-size: 3rem;
+        color: rgb(53, 53, 53);
+        cursor: default;
+        transition: .5s;
+        padding: 1rem;
+        text-align: center;
+    }
+    
+    .info-cont h1:hover {
+        font-size: 3.2rem;
+        color: rgb(50, 146, 255);
+        box-shadow: 0rem .1rem .6rem rgb(53, 53, 53);
+        border-radius: 1rem;
+        padding: 1rem;
     }
 }
